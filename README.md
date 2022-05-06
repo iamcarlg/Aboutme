@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamcarlg
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently working on React Projects
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Web development Projects using trendy technologies
+- 💞️ I’m looking to collaborate on IT professional projects
 - 📫 You can reach using my Portfolio : https://iamcarlg.github.io/personal-portfolio/
 - or via email (rugerocarlgauss@gmail.com / rugerocarlgauss@outlook.fr)
 
